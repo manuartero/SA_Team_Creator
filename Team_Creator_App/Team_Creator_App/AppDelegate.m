@@ -1,22 +1,37 @@
-//
-//  AppDelegate.m
-//  Team_Creator_App
-//
-//  Created by Manuel Artero Anguita on 13/08/13.
-//  Copyright (c) 2013 Manuel Artero Anguita. All rights reserved.
-//
-
 #import "AppDelegate.h"
 
 @implementation AppDelegate
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+/** Predefined Method: "main" method which will be called when de app is launched */
+- (BOOL)          application:(UIApplication *)application
+didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
-    [self.window makeKeyAndVisible];
-    return YES;
+    // initialize the window
+    CGRect viewRect = [[UIScreen mainScreen] bounds];
+    self.window = [[UIWindow alloc] initWithFrame:viewRect];
+    
+    // initialize the views controllers
+    self.tabBarController = [[UITabBarController alloc] init];
+    self.simpleViewController = [[SimpleViewController alloc] init];
+    /*
+     self.simpleViewController.title = @"Simple";
+     self.simpleViewController.tabBarItem.image = [UIImage imageNamed:@"tab_icon_simple"];
+     */
+    self.profileViewController = [[ProfileViewController alloc] init];
+    /*
+     self.profileViewController.title = @"Profile";
+     self.profileViewController.tabBarItem.image = [UIImage imageNamed:@"tab_icon_profile"];
+     */
+    
+    // Add viewControllers to the tabBar, and default to first
+    [self.tabBarController setViewControllers:@[self.simpleViewController, self.profileViewController]];
+     
+     // setting the main controller as the tabBarController
+     self.window.rootViewController = self.tabBarController;
+     // Making the window listening touch and no-touch events
+     [self.window makeKeyAndVisible];
+     
+     return YES;
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
