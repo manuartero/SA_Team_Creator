@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F3CF5C617BB94E200D56140 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F3CF5C517BB94E200D56140 /* MainStoryboard.storyboard */; };
 		3F7D7A7C17BA936D00BC6EE5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F7D7A7B17BA936D00BC6EE5 /* UIKit.framework */; };
 		3F7D7A7E17BA936D00BC6EE5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F7D7A7D17BA936D00BC6EE5 /* Foundation.framework */; };
 		3F7D7A8017BA936D00BC6EE5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F7D7A7F17BA936D00BC6EE5 /* CoreGraphics.framework */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F3CF5C517BB94E200D56140 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
 		3F7D7A7817BA936D00BC6EE5 /* Team_Creator_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Team_Creator_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F7D7A7B17BA936D00BC6EE5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3F7D7A7D17BA936D00BC6EE5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -57,6 +59,7 @@
 		3F7D7A6F17BA936D00BC6EE5 = {
 			isa = PBXGroup;
 			children = (
+				3F3CF5C517BB94E200D56140 /* MainStoryboard.storyboard */,
 				3F7D7A8117BA936D00BC6EE5 /* Team_Creator_App */,
 				3F7D7A7A17BA936D00BC6EE5 /* Frameworks */,
 				3F7D7A7917BA936D00BC6EE5 /* Products */,
@@ -164,6 +167,7 @@
 				3F7D7A8E17BA936D00BC6EE5 /* Default.png in Resources */,
 				3F7D7A9017BA936D00BC6EE5 /* Default@2x.png in Resources */,
 				3F7D7A9217BA936D00BC6EE5 /* Default-568h@2x.png in Resources */,
+				3F3CF5C617BB94E200D56140 /* MainStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +296,7 @@
 				3F7D7A9717BA936D00BC6EE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

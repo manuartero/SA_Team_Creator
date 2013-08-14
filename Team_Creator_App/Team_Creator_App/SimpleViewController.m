@@ -22,44 +22,7 @@
     [super viewDidLoad];
     
     // Additional setup after loading the view
-    // ---------------------------------------
-    
-    // 1) Main Background
-    self.view.backgroundColor = [UIColor yellowColor];
-    
-    // 2) welcomeLabel
-        UILabel *welcomeLabel = [[UILabel alloc] initWithFrame:CGRectMake(50, 30, 200, 44)];
-        welcomeLabel.backgroundColor = [UIColor clearColor];
-        welcomeLabel.text = @"Hello, welcome to this boring app";
-    [self.view addSubview:welcomeLabel];
-    
-    // 3) greenButton (RoundedRect)
-        self.greenButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-        self.greenButton.frame = CGRectMake(120, 200, 100, 44);
-        [self.greenButton setTitle:@"Make it green!" forState:UIControlStateNormal];
-        // button action: [ViewController changeBackgroundColor:greenButton]
-        [self.greenButton addTarget:self
-                          action:@selector(changeBackgroundColor:)
-                          forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:self.greenButton];
-    
-    // 4) blueButton (RoundedRect)
-        self.blueButton = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-        self.blueButton.frame = CGRectMake(120, 100, 80, 44);
-        [self.blueButton setTitle:@"Make it blue!" forState:UIControlStateNormal];
-        // button action: [ViewController changeBackgroundColor:greenButton]
-        [self.blueButton addTarget:self
-                         action:@selector(changeBackgroundColor:)
-                         forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:self.blueButton];
-}
-
-/** predefined method: Called first time the view property accesed*/
-- (void) loadView
-{
-    CGRect viewRect = [[UIScreen mainScreen] bounds];
-    UIView *view = [[UIView alloc] initWithFrame:viewRect];
-    self.view = view;
+    self.view.backgroundColor = [UIColor blueColor];
 }
 
 /** predefined method */
@@ -92,7 +55,7 @@
 
 // -----------------------------------------------------------------------------
 
-- (void) changeBackgroundColor:(id) sender
+- (IBAction) changeBackgroundColor: (id)sender
 {
     NSLog(@"Button pressed, sender: %@", sender);
     

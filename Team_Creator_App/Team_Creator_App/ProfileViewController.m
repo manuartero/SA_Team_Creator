@@ -21,22 +21,7 @@
     [super viewDidLoad];
     
     // Additional setup after loading the view
-    // ---------------------------------------
-    
-    // 1) Main Background
-    self.view.backgroundColor = [UIColor blueColor];
-    
-    // 2) profileImage
-        // Create a view for displaying an image
-        UIImageView *profileImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"Profile"]];
-        // Determines how a view lays out its content
-        [profileImageView setContentMode:UIViewContentModeScaleAspectFit];
-        // The frame rectangle describres the location ans size in its supeView
-        profileImageView.frame = self.view.frame;
-    [self.view addSubview:profileImageView];
-    
-    // 3) TODO
-    
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 - (void)didReceiveMemoryWarning

@@ -6,11 +6,12 @@
  *  Changes the background color of the screen
  *
  * @param sender (id) sender of the action
+ * @return action (IBAction)
  */
-- (void) changeBackgroundColor:(id) sender;
+- (IBAction) changeBackgroundColor:(id) sender;
 
-// welcomeLabel is not a property
-@property (weak, nonatomic) UIButton *greenButton;
-@property (weak, nonatomic) UIButton *blueButton;
+@property (strong, nonatomic) IBOutlet UILabel  *welcomeLabel;
+@property (strong, nonatomic) IBOutlet UIButton *greenButton;
+@property (strong, nonatomic) IBOutlet UIButton *blueButton;
 
 @end
