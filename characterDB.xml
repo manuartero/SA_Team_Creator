@@ -1,0 +1,496 @@
+<character_db>
+  <character>
+    <name>Kurosaki Ichigo</name>
+    <img>http://soul-arena.com/game/images/characters/1/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kuchiki Rukia</name>
+    <img>http://soul-arena.com/game/images/characters/2/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Inoue Orihime</name>
+    <img>http://soul-arena.com/game/images/characters/3/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Yasutora Sado</name>
+    <img>http://soul-arena.com/game/images/characters/4/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Uryuu Ishida</name>
+    <img>http://soul-arena.com/game/images/characters/5/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kon</name>
+    <img>http://soul-arena.com/game/images/characters/6/large.jpg</img>
+    <primary>BLACK</primary>
+    <secundary>BLACK</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Grand Fisher</name>
+    <img>http://soul-arena.com/game/images/characters/7/large.jpg</img>
+    <primary>BLACK</primary>
+    <secundary>BLACK</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Don Kanouji</name>
+    <img>http://soul-arena.com/game/images/characters/8/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Abarai Renji</name>
+    <img>http://soul-arena.com/game/images/characters/9/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Shiba Ganju</name>
+    <img>http://soul-arena.com/game/images/characters/10/large.jpg</img>
+    <primary>BLACK</primary>
+    <secundary>BLACK</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Shiba Kuukaku</name>
+    <img>http://soul-arena.com/game/images/characters/11/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Yamada Hanataro</name>
+    <img>http://soul-arena.com/game/images/characters/12/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Izuru Kira</name>
+    <img>http://soul-arena.com/game/images/characters/13/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kotetsu Isane</name>
+    <img>http://soul-arena.com/game/images/characters/14/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Hinamori Momo</name>
+    <img>http://soul-arena.com/game/images/characters/15/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Madarame Ikaku</name>
+    <img>http://soul-arena.com/game/images/characters/16/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Yumichika</name>
+    <img>http://soul-arena.com/game/images/characters/17/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>kurotsuchi Nemu</name>
+    <img>http://soul-arena.com/game/images/characters/18/large.jpg</img>
+    <primary>BLACK</primary>
+    <secundary>BLACK</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>kurotsuchi Mayuri</name>
+    <img>http://soul-arena.com/game/images/characters/19/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Zaraki Kenpachi</name>
+    <img>http://soul-arena.com/game/images/characters/20/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kuchiki Byakuya</name>
+    <img>http://soul-arena.com/game/images/characters/21/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Abarai Renji Bankai</name>
+    <img>http://soul-arena.com/game/images/characters/22/large</img>
+    <primary>WHITE</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Sajin Komamura</name>
+    <img>http://soul-arena.com/game/images/characters/23/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Sajin Komamura</name>
+    <img>http://soul-arena.com/game/images/characters/23/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kaname Tousen</name>
+    <img>http://soul-arena.com/game/images/characters/24/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Ichimaru Gin</name>
+    <img>http://soul-arena.com/game/images/characters/25/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>shihouin Yoruichi</name>
+    <img>http://soul-arena.com/game/images/characters/26/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Soi Fong</name>
+    <img>http://soul-arena.com/game/images/characters/27/large</img>
+    <primary>RED</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Toshiro Hitsugaya</name>
+    <img>http://soul-arena.com/game/images/characters/28/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kurosaki Ichigo Bankai</name>
+    <img>http://soul-arena.com/game/images/characters/29/large</img>
+    <primary>YELLOW</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kurosaki Ichigo Bankai</name>
+    <img>http://soul-arena.com/game/images/characters/29/large</img>
+    <primary>WHITE</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kuchiki Byakuya Bankai</name>
+    <img>http://soul-arena.com/game/images/characters/30/large</img>
+    <primary>YELLOW</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kuchiki Byakuya Bankai</name>
+    <img>http://soul-arena.com/game/images/characters/30/large</img>
+    <primary>YELLOW</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Sozuke Aizen</name>
+    <img>http://soul-arena.com/game/images/characters/31/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Sozuke Aizen</name>
+    <img>http://soul-arena.com/game/images/characters/31/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Sozuke Aizen</name>
+    <img>http://soul-arena.com/game/images/characters/31/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Sozuke Aizen</name>
+    <img>http://soul-arena.com/game/images/characters/31/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Hanakari Jinta</name>
+    <img>http://soul-arena.com/game/images/characters/32/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Tsumugiya Ururu</name>
+    <img>http://soul-arena.com/game/images/characters/33/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>WHITE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Tsukabishi Tessai</name>
+    <img>http://soul-arena.com/game/images/characters/34/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Urahara</name>
+    <img>http://soul-arena.com/game/images/characters/35/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Luppi</name>
+    <img>http://soul-arena.com/game/images/characters/36/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Grimmjow Jaggerjack</name>
+    <img>http://soul-arena.com/game/images/characters/37/large.jpg</img>
+    <primary>WHITE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Ulquiorra Schiffer</name>
+    <img>http://soul-arena.com/game/images/characters/38/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Yammy Rialgo</name>
+    <img>http://soul-arena.com/game/images/characters/39/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Ryuuken Ishida</name>
+    <img>http://soul-arena.com/game/images/characters/40/large.jpg</img>
+    <primary>BLUE</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Rangiku Matsumoto</name>
+    <img>http://soul-arena.com/game/images/characters/41/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Yylfordt Grantz</name>
+    <img>http://soul-arena.com/game/images/characters/42/large.jpg</img>
+    <primary>RED</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Shawlong Qufang</name>
+    <img>http://soul-arena.com/game/images/characters/43/large.jpg</img>
+    <primary>BLACK</primary>
+    <secundary>BLACK</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Edorad Leones</name>
+    <img>http://soul-arena.com/game/images/characters/44/large.jpg</img>
+    <primary>YELLOW</primary>
+    <secundary>YELLOW</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Madarame Ikkaku Bankai</name>
+    <img>http://soul-arena.com/game/images/characters/45/large</img>
+    <primary>WHITE</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Inner Ichigo (enemy)</name>
+    <img>Ichigo	http://soul-arena.com/game/images/characters/46/large</img>
+    <primary>BLACK</primary>
+    <secundary>BLACK</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+
+  <character>
+    <name>Inner Ichigo (ally)</name>
+    <img>Ichigo http://soul-arena.com/game/images/characters/46/large</img>
+    <primary>YELLOW</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Inner Ichigo (inner)</name>
+    <img>Ichigo http://soul-arena.com/game/images/characters/46/large</img>
+    <primary>YELLOW</primary>
+    <secundary>RED</secundary>
+    <rank>none</rank>
+    <black_attack>false</black_attack>
+  </character>
+
+  <character>
+    <name>Kuchiki Rukia Shikai</name>
+    <img>http://soul-arena.com/game/images/characters/47/large</img>
+    <primary>RED</primary>
+    <secundary>BLUE</secundary>
+    <rank>none</rank>
+    <black_attack>true</black_attack>
+  </character>
+</character_db>
